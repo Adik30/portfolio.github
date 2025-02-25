@@ -1,2 +1,2 @@
-# portfolio.github
+# portfolio.github.io
 Turash Adilet
